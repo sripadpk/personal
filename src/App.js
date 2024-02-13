@@ -18,7 +18,7 @@ function App() {
       </header>
       <div className="App-para">
       <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      You could say I'm a design enthusiast - I eat, sleep, and breathe creating stuff. UI/UX is my current jam, but frontend development is my secret weapon, like a hidden compartment in a cool jacket. I'm not afraid to tinker with code, but design is where my heart truly lies. My creativity is like a wild mustang, always ready to run!
       </p>
       </div>
     </div>
